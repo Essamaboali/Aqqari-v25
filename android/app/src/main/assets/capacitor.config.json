@@ -1,0 +1,12 @@
+{
+	"appId": "com.essamaboali.aqari",
+	"appName": "عقاري",
+	"webDir": "www",
+	"bundledWebRuntime": false,
+	"server": {
+		"androidScheme": "https"
+	},
+	"android": {
+		"allowMixedContent": false
+	}
+}
